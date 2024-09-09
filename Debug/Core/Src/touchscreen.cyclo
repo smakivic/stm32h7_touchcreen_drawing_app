@@ -1,0 +1,11 @@
+../Core/Src/touchscreen.c:111:6:Touchscreen_demo	30
+../Core/Src/touchscreen.c:227:6:Touchscreen_DrawCanvas	1
+../Core/Src/touchscreen.c:239:6:Touchscreen_DrawBackground_Circles	4
+../Core/Src/touchscreen.c:260:6:Touchscreen_DrawButton_Clear	1
+../Core/Src/touchscreen.c:273:6:Touchscreen_DrawButton_Eraser	2
+../Core/Src/touchscreen.c:296:6:Touchscreen_DrawButton_Undo	1
+../Core/Src/touchscreen.c:309:6:Touchscreen_DrawButton_Redo	1
+../Core/Src/touchscreen.c:325:6:SaveToUndoStack	2
+../Core/Src/touchscreen.c:339:6:Undo	3
+../Core/Src/touchscreen.c:359:6:Redo	3
+../Core/Src/touchscreen.c:376:6:RedrawCanvas	2
